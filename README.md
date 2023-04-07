@@ -28,6 +28,7 @@ $ ./run_milti_cam.sh
 ## Known Issues
 - If device=GPU, some times you may encounter X Window Error
    - In this case you can ignore and execute "run_multi_cam.sh" script again
+
 __NOTE: If you have any quries regarding this project, please use github issues__
 
 
