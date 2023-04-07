@@ -1,0 +1,11 @@
+{
+  "number_cameras": 1,
+  "cam_url":{
+    "cam_1" : "video1.mp4",
+    "cam_2" : "video2.mp4",
+    "cam_3" : "video3.mp4",
+    "cam_4" : "video4.mp4"
+  },
+  "inference_device": "CPU",
+  "display": "yes"
+}
