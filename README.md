@@ -5,7 +5,7 @@
 ## Pre-Requisites 
  - Intel based Atom or Core systems
  - Ubuntu 22.04 LTS or 20.04 LTS
- - Intel GPU Enabled - Recommended to install Edge Insights for Vision from here (https://edgesoftware.intel.com/visioninsights) in order to enable Intel GPU's seamlessly
+ - Intel GPU Enabled - Recommended to install Edge Insights for Vision from here (https://edgesoftware.intel.com/visioninsights) in order to install drivers and enable Intel GPU's seamlessly
  - Docker CE Installed - https://docs.docker.com/engine/install/ubuntu/
   
 ## Steps to run the sample
