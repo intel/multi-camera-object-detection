@@ -10,7 +10,7 @@
   
 ## Steps to run the sample
 ```
-git clone https://github.com/intel-innersource/applications.services.esh.mcod.git $HOME/multi-cam
+git clone https://github.com/intel/multi-camera-object-detection.git $HOME/multi-cam
 ```
 Navigate into the repo and run scripts as below   
 __NOTE: please download any sample videos into the multi-cam folder and give the same path in config.json before running demo__
